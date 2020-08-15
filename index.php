@@ -5,5 +5,6 @@
 </head>
 <body>
 	<h1>git remoteese</h1>
+	<p>lorem ipsum</p>
 </body>
 </html>
